@@ -27,6 +27,12 @@ Fitur utama:
 
 ---
 
+## Deployment
+
+https://muhammadbratah.github.io/Mission1-241511082-MuhammadBrataHadinata/
+
+---
+
 ## Author
 
 Muhammad Brata Hadinata
